@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(){
-    cout<<(23.5+2+'A')<<endl; // Output: 26.500000000000004
+    cout<<(23.5+2+'A')<<endl; // 90.5
     return 0;
 }
