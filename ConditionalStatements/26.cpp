@@ -1,0 +1,16 @@
+//if else statements in c++( can vote or not)
+#include<iostream>
+using namespace std;
+
+int main(){
+    int age;
+    cout<<"Enter your age: ";
+    cin>>age;
+    if(age>=18){
+        cout<<"You can vote\n";
+    }
+    else{
+        cout<<"You can't vote\n";
+    }
+    return 0;
+}
