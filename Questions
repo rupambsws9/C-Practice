@@ -17,3 +17,14 @@ All Questions
     in the bill as an advanced problem) -Variable And Data Types-13.cpp
 14. Build a Simple Interest Calculator. -Variable And Data Types-14.cpp
 15. Write a program to calculate the area of a circle -Variable And Data Types-15.cpp
+16. constants in c++ -Operators - 16.cpp
+17. implicit type conversions in c++ -Operators -17.cpp
+18. explicit type conversions in c++ -Operators -18.cpp
+19. predict output of (bool)3+5; and (bool)0+5; -Operators -19.cpp
+20. predict output of coutt<<(23.5+2+'A); -Operators -20.cpp
+21. arithmatic operators-Operators - 21.cpp
+22. unary operators-Operators -22.cpp
+23. ssignment operator in c++ -Operators -23.cpp
+24. relational operator in c++ -Operators -24.cpp
+25. logical operator in c++ -Operators -25.cpp
+26.
