@@ -1,4 +1,4 @@
-//create an income tax calculator(<5 lakh 0,>5 lakh && <10 lakh 20%,>10 lakh 30%)
+//create an income tax calculator(<5 lakh 0,>5 lakh && <10 lakh 5%,>10 lakh 15%)
 #include<iostream>
 using namespace std;
 
