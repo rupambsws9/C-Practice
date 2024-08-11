@@ -21,7 +21,7 @@ All Questions
 17. implicit type conversions in c++ -Operators -17.cpp
 18. explicit type conversions in c++ -Operators -18.cpp
 19. predict output of (bool)3+5; and (bool)0+5; -Operators -19.cpp
-20. predict output of coutt<<(23.5+2+'A); -Operators -20.cpp
+20. predict output of coutt<< (23.5+2+'A'); -Operators -20.cpp
 21. arithmatic operators-Operators - 21.cpp
 22. unary operators-Operators -22.cpp
 23. ssignment operator in c++ -Operators -23.cpp
@@ -33,3 +33,6 @@ All Questions
 29. print a number is odd or even -Conditional Statements -29.cpp
 30. create an income tax calculator -Conditional Statements -30.cpp
 31. print the largest of 3 numbers -Conditional Statements -31.cpp
+32. ternary operator in c++ -Conditional Statements -32.cpp
+33. switch statement in c++ -Conditional Statements -33.cpp
+34.
