@@ -57,3 +57,11 @@ All Questions
 44. print the sum of digit of a number using while loop in c++ -Loops - 44.cpp
 45. print the sum of odd digits of a number using while loop in c++ -Loops - 45.cpp
 46. print the digits of a given number in reverse using while loop in c++ -Loops - 46.cpp
+47. do while loop in c++ -Loops - 47.cpp
+48. difference between while and do while loop in c++ -Loops - 48.cpp
+49. break statement in c++ -Loops - 49.cpp
+50. continue statement in c++ -Loops - 50.cpp
+51. WAP where user can keep entering numbers till they enter a multiple of 10 -Loops - 51.cpp
+52. WAP to show numbers entered by user except multiple of 10 within 1 to 1000 -Loops - 52.cpp
+53. check if a number is prime or not in c++ -Loops - 53.cpp
+54. check if a number is prime or not in c++(optimised) -Loops - 54.cpp
