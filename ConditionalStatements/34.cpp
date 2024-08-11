@@ -14,17 +14,17 @@ int main(){
 
     switch(op){
         case '+':
-            cout << "The result is: " << a+b << endl;
+            cout << "a + b is: " << a+b << endl;
             break;
         case '-':
-            cout << "The result is: " << a-b << endl;
+            cout << "a - b is: " << a-b << endl;
             break;
         case '*':
-            cout << "The result is: " << a*b << endl;
+            cout << "a * b is: " << a*b << endl;
             break;
         case '/':
             if(b!=0){
-                cout << "The result is: " << a/b << endl;
+                cout << "a / b is: " << a/b << endl;
             }
             else{
                 cout << "Error! Division by zero is not allowed." << endl;
