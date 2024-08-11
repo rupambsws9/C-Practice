@@ -35,12 +35,13 @@ All Questions
 31. print the largest of 3 numbers -Conditional Statements -31.cpp
 32. ternary operator in c++ -Conditional Statements -32.cpp
 33. switch statement in c++ -Conditional Statements -33.cpp
-34. build a calculator by using switch for the 4 basic arithmatic operations (+,-,*,/) -Conditional Statements -34.cpp
-35. Write a C++ program to get a number from the user and print whether it is positive , negative or zero. -Conditional
-    Statements - 35.cpp
-36. Write a C++ program that takes a year from the user and print whether that year is a leap year or not. -Conditional
-    Statements - 36.cpp
-37. For any 3 digit number check whether it is an Armstrong number or not.Armstrong number is a number that is equal to
-the sum of cubes of its digits. -Conditional Statements - 37.cpp
-38. 
-
+34. build a calculator by using switch for the 4 basic arithmatic operations (+,-,\*,/) -Conditional Statements
+    -34.cpp
+35. Write a C++ program to get a number from the user and print whether it is positive , negative or zero. -
+    Conditional Statements - 35.cpp
+36. Write a C++ program that takes a year from the user and print whether that year is a leap year or not. -
+    Conditional Statements - 36.cpp
+37. For any 3 digit number check whether it is an Armstrong number or not.Armstrong number is a number that is equal
+    to the sum of cubes of its digits. -Conditional Statements - 37.cpp
+38. for loop in c++ -Loops - 38.cpp
+39.
