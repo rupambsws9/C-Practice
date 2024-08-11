@@ -44,4 +44,6 @@ All Questions
 37. For any 3 digit number check whether it is an Armstrong number or not.Armstrong number is a number that is equal
     to the sum of cubes of its digits. -Conditional Statements - 37.cpp
 38. for loop in c++ -Loops - 38.cpp
-39.
+39. print my name many times in c++ -Loops - 39.cpp
+40. sum of n natural numbers in c++ -Loops - 40.cpp
+41. print 10 to 100 by using while loop in c++ -Loops - 42.cpp
