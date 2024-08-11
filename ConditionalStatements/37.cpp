@@ -1,4 +1,4 @@
-/*For any 3 digit number check whether it is an Armstrong number or not.Armstrong number is a number that is equal to
+/*For any 3 digit number check whether it is an Armstrong number(3-digit) or not.Armstrong number is a number that is equal to
 the sum of cubes of its digits.*/
 #include<iostream>
 using namespace std;
